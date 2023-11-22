@@ -18,7 +18,7 @@ form {   position: relative;
 
     color: #2b344b; ;}
 
-h1 { text-align: center; font-family:Arial, Helvetica, sans-serif;}
+h1 { text-align: center; font-family:Arial, Helvetica, sans-serif; font-size: 50px; transform: translate(0%, 30%);}
 
 #input1 {  padding: 5px;
     width: 250px ;
